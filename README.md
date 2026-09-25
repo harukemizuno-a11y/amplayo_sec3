@@ -7,7 +7,7 @@
 
 **Database Used:** SQLite
 
-Features:
+**Features:**
 - Add Task
 - View Tasks
 - Edit Task
