@@ -1,16 +1,16 @@
-amplayo_sec3
-Project Code: WST21-PM-2026-SF
+# amplayo_sec3
 
-Student Name: Amplayo, Jann Brixx
+**Project Code:** WST21-PM-2026-SF
 
-Course & Year: BSIT 2nd Year
+**Student Name:** Amplayo, Jann Brixx
 
-Database Used: SQLite
+**Course & Year:** BSIT 2nd Year
 
-Features:
+**Database Used:** SQLite
 
-Add Task
-View Tasks
-Edit Task
-Delete Task
-Update Status
+**Features:**
+- Add Task
+- View Tasks
+- Edit Task
+- Delete Task
+- Update Status
