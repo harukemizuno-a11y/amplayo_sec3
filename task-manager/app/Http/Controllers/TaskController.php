@@ -14,13 +14,13 @@ class TaskController extends Controller
         return view('tasks.index', compact('tasks'));
     }
 
-    // Show form to create a new task
+    // CREATE
     public function create()
     {
         return view('tasks.create');
     }
 
-    // Save new task to database
+    // SAVE
     public function store(Request $request)
     {
         $request->validate([
@@ -35,13 +35,13 @@ class TaskController extends Controller
         return redirect()->route('tasks.index')->with('success', 'Task added successfully.');
     }
 
-    // Show form to edit a task
+    // EDIT
     public function edit(Task $task)
     {
         return view('tasks.edit', compact('task'));
     }
 
-    // Update task in database
+    // UPDATE
     public function update(Request $request, Task $task)
     {
         $request->validate([
@@ -56,7 +56,7 @@ class TaskController extends Controller
         return redirect()->route('tasks.index')->with('success', 'Task updated successfully.');
     }
 
-    // Delete a task
+    // DELETE
     public function destroy(Task $task)
     {
         $task->delete();
