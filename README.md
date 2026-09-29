@@ -28,8 +28,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Database:** SQLite
-- **Language / Framework:** `TODO: e.g. PHP / Python / Node.js`
+* **Language:** PHP
+* **Framework:** Laravel
+* **Database:** SQLite
+
 
 ## 🚀 Getting Started
 
