@@ -48,10 +48,13 @@ cd amplayo_sec3/task-manager
 
 ## 📁 Project Structure
 
-```
+```text
 amplayo_sec3/
 ├── task-manager/     # Main application
+├── screenshots/      # Project screenshots
 └── README.md
+```
+
 ```
 
 ## 🖼️ Screenshots
