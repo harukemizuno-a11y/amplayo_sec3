@@ -44,7 +44,7 @@ cd amplayo_sec3/task-manager
 
 # 3. Install dependencies and run
 # TODO: add your run command here
-
+```
 
 ## 📁 Project Structure
 
@@ -53,8 +53,6 @@ amplayo_sec3/
 ├── task-manager/     # Main application
 ├── screenshots/      # Project screenshots
 └── README.md
-```
-
 ```
 
 ## 🖼️ Screenshots
@@ -87,16 +85,6 @@ amplayo_sec3/
 
 ![Task Deleted](screenshots/07-task-deleted.png)
 
-
-## 👤 Author
-
-| | |
-| :-- | :-- |
-| **Name** | Jann Brixx Amplayo |
-| **Course & Year** | BSIT 2nd Year |
-| **Project Code** | `WST21-PM-2026-SF` |
-
----
 
 <div align="center">
 
