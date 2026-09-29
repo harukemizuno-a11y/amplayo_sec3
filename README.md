@@ -54,8 +54,34 @@ amplayo_sec3/
 
 ## 🖼️ Screenshots
 
-<!-- TODO: add screenshots here -->
-<!-- ![Home](screenshots/home.png) -->
+### 🏠 Home
+
+![Home](screenshots/01-home.png)
+
+### ➕ Add Task
+
+![Add Task](screenshots/02-add-task.png)
+
+### 📋 Task Added
+
+![Task Added](screenshots/03-task-added.png)
+
+### ✏️ Edit Task
+
+![Edit Task](screenshots/04-edit-task.png)
+
+### 🔄 Task Updated
+
+![Task Updated](screenshots/05-task-updated.png)
+
+### 🗑️ Delete Confirmation
+
+![Delete Confirmation](screenshots/06-delete-confirm.png)
+
+### ✅ Task Deleted
+
+![Task Deleted](screenshots/07-task-deleted.png)
+
 
 ## 👤 Author
 
