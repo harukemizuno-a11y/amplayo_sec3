@@ -44,7 +44,7 @@ cd amplayo_sec3/task-manager
 
 # 3. Install dependencies and run
 # TODO: add your run command here
-```
+
 
 ## 📁 Project Structure
 
